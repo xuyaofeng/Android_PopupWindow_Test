@@ -1,6 +1,6 @@
 # Android_PopupWindow_Test
 
-简单的PopupWindow和PopupMenu的denmo
+简单的PopupWindow和PopupMenu的demo
 
 实现了PopupWindow，PopupMenu与ListView的结合
 
